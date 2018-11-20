@@ -20,5 +20,22 @@
 
 全部勾選完畢後 回到第一個頁面點選 Install Now 就會開始安裝
 
+
 # 在 Windows 環境下使用 pip 安裝模塊
+
+首先滑鼠右鍵點選開始然後選擇執行，輸入cmd按下確定，打開命令字元提示
+
+![](Image/Image05.png) 
+
+![](Image/Image06.png) 
+
+這邊你可以先輸入 Python 看看有沒有安裝成功，如果出現以下畫面就表示安裝完成
+
+![](Image/Image07.png) 
+
+重開一次之後，假設我們想要安裝 pygame 這個模塊，只要輸入 pip install pygame 即可
+
+按 enter 之後只要出現以下畫面就表示安裝完成
+
+![](Image/Image08.png) 
 
