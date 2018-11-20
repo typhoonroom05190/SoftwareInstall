@@ -5,3 +5,6 @@
 ![](Image/Image01.png) 
 
 下載完成後，執行安裝檔
+
+![](Image/Image02.png) 
+
